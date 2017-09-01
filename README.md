@@ -4,8 +4,8 @@ This repo contains the code with solution for exercise given for Inferential sta
 <b>Task Description </b></br></br>
 In this exercise, you will:
 <ol>
-<ul>critique a preliminary analysis of readmissions data and recommendations (provided below) for reducing the readmissions rate</ul>
-<ul>construct a statistically sound analysis and make recommendations of your own</ul>
+<li>critique a preliminary analysis of readmissions data and recommendations (provided below) for reducing the readmissions rate</li>
+<li>construct a statistically sound analysis and make recommendations of your own</li>
 </ol>
 Instructions and data are provided in the attached Jupyter notebook.
 </br>
